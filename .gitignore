@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Data (keep cleaned or sample data checked in if you prefer)
+data/raw/
+
+# Model outputs
+*.h5
+*.pt
+*.ckpt
+
+# Tableau exports
+*.twbx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Sensitive
+*.env
